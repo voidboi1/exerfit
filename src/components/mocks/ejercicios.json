@@ -1,0 +1,32 @@
+{
+    "ejercicios": [
+    {
+
+      "id":1,
+      "imagen": "./img/cardio.jpg",
+      "nombre": "Cardio 1",
+      "rutaImagen": "./img/cardio.jpg",
+      "descripcion":"Rutina de cardio fácil para principiantes de 10 minutos", 
+      "ejerciciosa":["Jumping Jacks 3 series de 25 repeticiones con 1 min de descanso", "Salto en estrella 2 series de 24 repeticiones con 1 min de descanso", "Sentadillas 2 series de 20 repeticiones con 1 min de descanso", "Tap Backs 2 series de 25 repeticiones con 1 min de descanso", "Burpees 1 serie de 20 Repeticiones"], 
+      "categoria":"cardio"
+    },
+    {
+        "id":2,
+        "nombre": "Fuerza 1",
+        "rutaImagen": "./components/img/cardio.jpg",
+        "descripcion":"Rutina de Fuerza de nivel intermedio de 35 minutos", 
+        "ejerciciosa":["Pistol Squats 3 series de 14 repeticiones con 1 min de descanso", "Jumping Squats 3 series de 14 repeticiones con 1 min de descanso", "Flexiones de brazo 4 series de 15 repeticiones con 1 min de descanso", "Puente de gluteos 4 series de 15 repeticiones con 1 min de descanso", "Superman 4 series de 20 repeticiones con 1 min de descanso"], 
+        "categoria":"fuerza"
+      
+    },
+    {
+        "id":3,
+        "nombre": "Tonificacion 1",
+        "rutaImagen": "",
+        "descripcion":"Rutina de tonificacion para principiantes de 10 minutos", 
+        "ejerciciosa":["Flexiones de brazo 1 series de 15 repeticiones con 30 seg de descanso", "Patada lateral 2 series de 20 repeticiones con 30 seg de descanso", "Sentarse contra la pared 2 series de 30 segundos con 15 seg de descanso", "Plancha 3 series de 20-30 segundos con 30 seg de descanso"], 
+        "categoria":"tonificar"
+    }
+   
+  ] 
+}
